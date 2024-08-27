@@ -1,19 +1,17 @@
-# Мое портфолио
+# Moje portfolio
 
-Добро пожаловать в мое портфолио! Здесь вы найдете информацию о моих проектах и ссылки на репозитории.
+Vítejte v mém portfoliu! Zde najdete informace o mých projektech a odkazy na repozitáře.
 
-## Проекты
+## Projekty
 
-### Проект 1: Название проекта 1
-- **Описание**: Краткое описание проекта 1.
-- **Технологии**: C#, .NET, и т.д.
-- **Ссылка на репозиторий**: [Проект 1](https://github.com/ваше_имя/репозиторий1)
+### Projekt 1: wcf_chat
+**Popis:** WCF Chat Application je distribuovaná aplikace pro výměnu zpráv v reálném čase postavená na technologii Windows Communication Foundation (WCF). 
+**Technologie:** C#, .NET, atd.  
+**Odkaz na repozitář:** [[0](https://github.com/DMCRoul/wcf_chat.git) 1](#)
 
-### Проект 2: Название проекта 2
-- **Описание**: Краткое описание проекта 2.
-- **Технологии**: C#, .NET, и т.д.
-- **Ссылка на репозиторий**: [Проект 2](https://github.com/ваше_имя/репозиторий2)
-
-## Контакты
-
-Вы можете связаться со мной через [LinkedIn](https://www.linkedin.com/in/ваш-профиль) или по электронной почте [ваша_почта@example.com](mailto:ваша_почта@example.com).
+### Projekt 2: Název projektu 2
+**Popis:** Krátký popis projektu 2.  
+**Technologie:** C#, .NET, atd.  
+**Odkaz na repozitář:** [[0](https://github.com/DMCRoul/wcf_chat.git) 1](#)
+## Kontakty
+vqmirq@gmail.com
